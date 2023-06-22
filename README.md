@@ -1,2 +1,2 @@
 # discordbot.ts
-A bot for discord in typescript.
+Um bot para o Discord em Typescript.
